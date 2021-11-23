@@ -1,0 +1,7 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+  classes:
+    - Day_005_TestNG_DataProvider_Lab1.OrangeHRM_DataProvider_Lab1
+
